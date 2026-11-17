@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-dos-basic"
-description = "BASIC language runtime and legacy execution environment"
+description = "SigmaOS DOS BASIC - GW-BASIC / QBasic interpreter for DOS subsystem"
 version = "0.1.0"
 tier = 4
 
